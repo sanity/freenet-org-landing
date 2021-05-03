@@ -1,1 +1,3 @@
-# freenet-org-landing
+# Coming Soon
+
+Follow [@freenetorg](https://twitter.com/freenetorg) for updates.
