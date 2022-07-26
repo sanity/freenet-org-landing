@@ -7,9 +7,9 @@ Freenet's purpose is to assist in developing and disseminating technological sol
 * [Fred](https://freenetproject.org/) - The original Freenet software, first released in March 2000 and continuously developed since
 * [Locutus](https://github.com/freenet/locutus) - A decentralized application layer for the Internet, first release expected August 2022
 
-## News
+## Community
 
-Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates.
+Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates, chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org).
 
 ## Support Us
 
