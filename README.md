@@ -9,7 +9,9 @@ Freenet's purpose is to assist in developing and disseminating technological sol
 
 ## Community
 
-Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates, chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org).
+* Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates
+* Chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org)
+* Check out [r/freenet](https://www.reddit.com/r/Freenet/) on Reddit
 
 ## Support Us
 
