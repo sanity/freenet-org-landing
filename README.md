@@ -7,7 +7,7 @@ Today we're building Locutus, which will make it easy for developers to create d
 ## News
 
 * **16th July, 2022:** Ian gave a talk on Decentralized Reputation and Trust, [watch here](https://github.com/freenet/locutus/wiki/Decentralized-Reputation-and-Trust)
-* **7th July, 2022:** Ian gave an introductory talk on Locutus which you can watch [on YouTube](https://www.youtube.com/watch?v=d31jmv5Tx5k).
+* **7th July, 2022:** Ian gave an [introductory talk](https://www.youtube.com/watch?v=d31jmv5Tx5k) on Locutus.
 
 ## Software
 
