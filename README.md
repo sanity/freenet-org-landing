@@ -6,7 +6,7 @@ Today we're building Locutus, which will make it easy for developers to create d
 
 ## News
 
-* **16th July, 2022:** Ian gave a [talk](https://www.youtube.com/watch?v=4L9pXIBAdG4) on Decentralized Reputation and Trust
+* **16th July, 2022:** Ian gave a [talk](https://www.youtube.com/watch?v=4L9pXIBAdG4) on Decentralized Reputation and Trust in Locutus
 * **7th July, 2022:** Ian gave an [introductory talk](https://www.youtube.com/watch?v=d31jmv5Tx5k) on Locutus
 * **6th July, 2022:** Locutus makes the [front page](https://www.reddit.com/r/CryptoCurrency/comments/vt069a/23_years_ago_i_created_freenet_the_first/) of the r/cryptocurrency subreddit
 * **18th April, 2022:** Locutus makes the [front page](https://www.reddit.com/r/programming/comments/u6erfe/23_years_ago_i_created_freenet_the_first/) of the r/programming subreddit
