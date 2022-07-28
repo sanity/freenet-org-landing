@@ -1,6 +1,8 @@
 ## Freenet
 
-Freenet's purpose is to assist in developing and disseminating technological solutions to further the open and democratic distribution of information over the Internet or its successor electronic communication networks or organizations. It is also the purpose of this organization to guarantee consenting individuals the free, unmediated, and unimpeded reception and impartation of all intellectual, scientific, literary, social, artistic, creative, human rights, and cultural expressions, opinions and ideas without interference or limitation by or service to state, private, or special interests. It is also our purpose to educate the world community and be an advocate of these purposes.
+23 years ago we created Freenet, which was the first distributed, decentralized peer-to-peer network, and a pioneer of technologies like cryptographic contracts and small-world networks.
+
+Today we're building Locutus, which will make it easy for developers to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
 ## Software
 
