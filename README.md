@@ -12,7 +12,6 @@ Today we're building Locutus, which will make it easy for developers to create d
 * **18th April, 2022:** Locutus makes the [front page](https://www.reddit.com/r/programming/comments/u6erfe/23_years_ago_i_created_freenet_the_first/) of the r/programming subreddit
 * **10th April, 2022:** Locutus makes the [front page](https://news.ycombinator.com/item?id=30979002) of Hacker News
 * **27th March, 2022:** Locutus makes the [front page](https://www.reddit.com/r/privacy/comments/tpp306/23_years_ago_i_created_freenet_the_first/) of the r/privacy subreddit
-* 
 
 ## Software
 
