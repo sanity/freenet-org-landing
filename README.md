@@ -4,6 +4,11 @@
 
 Today we're building Locutus, which will make it easy for developers to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
+## News
+
+* **16th July, 2022:** Ian gave a talk on Decentralized Reputation and Trust, [watch here](https://github.com/freenet/locutus/wiki/Decentralized-Reputation-and-Trust)
+* **7th July, 2022:** Ian gave an introductory talk on Locutus which you can watch [on YouTube](https://www.youtube.com/watch?v=d31jmv5Tx5k).
+
 ## Software
 
 * [Fred](https://freenetproject.org/) - The original Freenet software, first released in March 2000 and continuously developed since
