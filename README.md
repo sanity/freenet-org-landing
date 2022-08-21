@@ -16,7 +16,7 @@ Today we're building [Locutus](https://github.com/freenet/locutus), which will m
 ## Software
 
 * [Fred](https://freenetproject.org/) - The original Freenet software, first released in March 2000 and continuously developed since
-* [Locutus](https://github.com/freenet/locutus) - A decentralized application layer for the Internet, first release expected August 2022
+* [Locutus](https://github.com/freenet/locutus) - A decentralized application layer for the Internet, first release expected September 2022
 
 ## Community
 
