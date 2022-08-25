@@ -1,6 +1,6 @@
 ## Freenet
 
-23 years ago we created [Freenet](https://freenetproject.org/), the first distributed, decentralized peer-to-peer network. It pioneered technologies like cryptographic contracts and small-world networks, and is still under active development.
+23 years ago we created the original [Freenet](https://freenetproject.org/), the first distributed, decentralized peer-to-peer network. It pioneered technologies like cryptographic contracts and small-world networks, and is still under active development.
 
 Today we're building [Locutus](https://github.com/freenet/locutus), which will make it easy for developers to create and deploy decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
@@ -20,9 +20,13 @@ Today we're building [Locutus](https://github.com/freenet/locutus), which will m
 
 ## Community
 
-* Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates
-* Chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org)
-* Check out [r/freenet](https://www.reddit.com/r/Freenet/) on Reddit
+* [r/freenet](https://www.reddit.com/r/Freenet/) on Reddit
+* Locutus
+  * Follow [@freenetorg](https://twitter.com/freenetorg) on Twitter for updates
+  * Chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org)
+* Fred
+  * Follow [@freenetproject](https://twitter.com/freenetproejct)
+  * IRC: [#freenet on libera](https://web.libera.chat/?nick=FollowRabbit|?#freenet)
 
 ## Support Us
 
