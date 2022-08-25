@@ -1,6 +1,6 @@
 ## Freenet
 
-23 years ago we created [Freenet](https://en.wikipedia.org/wiki/Freenet), which was the first distributed, decentralized peer-to-peer network, and a pioneer of technologies like cryptographic contracts and small-world networks.
+23 years ago we created [Freenet](https://freenetproject.org/), which was the first distributed, decentralized peer-to-peer network, and a pioneer of technologies like cryptographic contracts and small-world networks.
 
 Today we're building [Locutus](https://github.com/freenet/locutus), which will make it easy for developers to create and deploy decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
