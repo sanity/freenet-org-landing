@@ -1,10 +1,10 @@
 ## Freenet
 
-23 years ago we created [Freenet](https://freenetproject.org/), which was the first distributed, decentralized peer-to-peer network, and a pioneer of technologies like cryptographic contracts and small-world networks.
+23 years ago we created [Freenet](https://freenetproject.org/), the first distributed, decentralized peer-to-peer network. It pioneered technologies like cryptographic contracts and small-world networks, and is still under active development.
 
 Today we're building [Locutus](https://github.com/freenet/locutus), which will make it easy for developers to create and deploy decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
-## News
+## Locutus News
 
 * **16th July, 2022:** Ian gave a [talk](https://www.youtube.com/watch?v=4L9pXIBAdG4) on Decentralized Reputation and Trust in Locutus
 * **7th July, 2022:** Ian gave an introductory talk ([Youtube](https://www.youtube.com/watch?v=d31jmv5Tx5k), [Vimeo](https://vimeo.com/740461100)) on Locutus
