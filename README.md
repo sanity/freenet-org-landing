@@ -26,7 +26,7 @@ Today we're building [Locutus](https://github.com/freenet/locutus), which will m
   * Chat with us on [Matrix](https://matrix.to/#/#freenet-locutus:matrix.org)
 * Fred
   * Follow [@freenetproject](https://twitter.com/freenetproejct)
-  * IRC: [#freenet on libera](https://web.libera.chat/?nick=FollowRabbit|?#freenet)
+  * IRC: [#freenet on libera](https://web.libera.chat/?nick=FollowRabbit%7C?#freenet)
 
 ## Support Us
 
